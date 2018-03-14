@@ -12,6 +12,7 @@
     "contaminants"
   ],
   "contaminants_seqtrim1": {
+    "date": 20170628121553,
     "files_checksum": {
       "Alcaligenes_faecalis_partial_23S.fasta.gz": "3d9580663c6c1ed764ac7e9f470c1c21",
       "Chromobacterium_violaceum.fasta.gz": "78dd520b38bc1033d8caafadac5fa247",
@@ -31,12 +32,14 @@
     }
   },
   "cont_ribosome": {
+    "date": 20170628122025,
     "files_checksum": {
       "rrna_lsu90.fasta.gz": "7b7cde82c3a7aac7ea31d672c9c95018",
       "rrna_ssu90.fasta.gz": "f9c61715a380089b9fa80b033473b471"
     }
   },
   "cont_bacteria": {
+    "date": 20171211092519,
     "files_checksum": {
       "Acaryochloris_marina_MBIC11017_uid58167.fasta.gz": "ec8743dbe2783af0790fef07c89f5b69",
       "Acetobacter_pasteurianus_IFO_3283_01_uid59279.fasta.gz": "1454d6e44cce5cd75523e2ad4893a82b",
@@ -486,16 +489,19 @@
     }
   },
   "adapters": {
+    "date": 20170628121504,
     "files_checksum": {
       "adapters.fasta.gz": "aab8f01eb2e122213bc401c4723a2343"
     }
   },
   "cont_mitochondrias": {
+    "date": 20170628122010,
     "files_checksum": {
       "mitocondrial_genomes.fasta.gz": "b817889c7f1819193c18addc5f2593a9"
     }
   },
   "cont_fungi": {
+    "date": 20170628122005,
     "files_checksum": {
       "Cryptococcus_neoformans_var_JEC21_uid10698.fasta.gz": "d1b139e75c1782d1a63e857cf7d8c67c",
       "Debaryomyces_hansenii_CBS767_uid12410.fasta.gz": "224e4b6610be850301d790c0bc8684b7",
@@ -511,21 +517,25 @@
     }
   },
   "cont_plastids": {
+    "date": 20170628122015,
     "files_checksum": {
       "plastids_genomes.fasta.gz": "ef676ce8a61814a8aa04f0f3ba2e1ea1"
     }
   },
   "vectors": {
+    "date": 20171204093500,
     "files_checksum": {
       "vectors.fasta.gz": "9c30ce40cc2826dfff27f35911dd7a45"
     }
   },
   "cont_viruses": {
+    "date": 20170628122025,
     "files_checksum": {
       "Bacteriophage.fasta.gz": "08469dcbb803c6158c191dd8e7ca1901"
     }
   },
   "contaminants": {
+    "date": 20170628122445,
     "files_checksum": {
       "Acidaminococcus_fermentans.fasta.gz": "791f38e56197e973ddfc660b0196fb6d",
       "Acinetobacter_baumannii.fasta.gz": "8d294e7fc08b80d34f3a9e1edcdaa17a",
